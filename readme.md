@@ -1,1 +1,1 @@
-Primeiro preojeto feito em HTML e CSS
+Primeiro projeto feito em HTML e CSS
